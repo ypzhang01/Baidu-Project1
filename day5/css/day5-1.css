@@ -1,9 +1,25 @@
 body {
-    padding-left: 10px;
-    border:1px solid grey;
-    width: 70%;
+   font-family: "Microsoft YaHei UI";
+   font-size: 15pt;
 }
-p {
-    display: inline;
-    margin-right: 20px;
+header {
+    font-size: 2em;
+    font-weight: bold;
 }
+h3 {
+    font-size: 1.2em;
+}
+dt,
+h4 {
+    font-size: 1em;
+    font-weight: bold;
+}
+dt,
+dd {
+    display: inline-block;
+}
+dd {
+    margin-left: 1em;
+    margin-right: 2em;
+}
+
